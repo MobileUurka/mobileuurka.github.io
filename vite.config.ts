@@ -11,7 +11,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/mobileuurka-web/', // Replace with your repo name
+  base: '/', // Root path since using custom domain
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
