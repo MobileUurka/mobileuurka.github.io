@@ -28,91 +28,40 @@ To revolutionize maternal healthcare through cutting-edge artificial intelligenc
 
 Visit our live platform: **[mobileuurka.com](https://mobileuurka.com)**
 
-## 🛠️ Tech Stack
+## 💼 Why Choose MobileUurka?
 
-- **Frontend**: React 18.3.1 + TypeScript
-- **Styling**: Tailwind CSS v4 with custom healthcare theme
-- **Build Tool**: Vite for fast development and optimized builds
-- **Icons**: React Icons for consistent UI elements
-- **Deployment**: GitHub Pages with custom domain
+- **🏆 Proven Technology**: Built with cutting-edge AI and machine learning
+- **🔒 Healthcare Compliance**: Meets international healthcare data standards
+- **📈 Scalable Solutions**: From individual practices to large hospital networks
+- **🌍 Global Reach**: Designed for healthcare systems worldwide
+- **⚡ Real-time Processing**: Instant analysis and decision support
+- **👥 Expert Team**: Healthcare professionals and AI specialists
 
-## 📦 Installation & Setup
+## 🌍 Global Impact
 
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or yarn package manager
+### Healthcare Transformation
+MobileUurka is at the forefront of maternal healthcare innovation, serving healthcare providers across Kenya and expanding globally. Our AI-driven solutions have been designed to address critical gaps in pregnancy care and maternal health outcomes.
 
-### Quick Start
+### Target Audience
+- **OBGYNs and Maternal Health Specialists**
+- **Healthcare Facilities and Hospitals**
+- **Medical Researchers and Institutions**
+- **Public Health Organizations**
+- **Healthcare Technology Partners**
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MobileUurka/mobileuurka-web.git
-   cd mobileuurka-web
-   ```
+## 🏆 Our Commitment
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+### Quality & Safety
+- **Clinical Validation**: All algorithms undergo rigorous medical review
+- **Data Security**: Bank-level encryption and HIPAA compliance
+- **Continuous Learning**: AI models updated with latest medical research
+- **24/7 Support**: Round-the-clock technical and clinical support
 
-3. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173`
-
-### Available Scripts
-
-```bash
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run ESLint
-```
-
-## 🏗️ Project Structure
-
-```
-mobileuurka-web/
-├── public/
-│   ├── sitemap.xml          # SEO sitemap
-│   └── robots.txt           # Search engine directives
-├── src/
-│   ├── assets/
-│   │   ├── images/          # Logo and graphics
-│   │   └── docs/            # Legal documents
-│   ├── components/          # React components
-│   │   ├── Navbar.tsx       # Navigation header
-│   │   ├── Hero.tsx         # Landing section
-│   │   ├── About.tsx        # Company information
-│   │   ├── Sabi.tsx         # AI assistant showcase
-│   │   ├── Metrics.tsx      # Performance metrics
-│   │   ├── Powered.tsx      # Features section
-│   │   ├── Pricing.tsx      # Pricing information
-│   │   ├── FAQs.tsx         # Frequently asked questions
-│   │   ├── CTA.tsx          # Call-to-action section
-│   │   ├── Footer.tsx       # Site footer
-│   │   └── Sidebar.tsx      # Mobile navigation
-│   ├── App.tsx              # Main application component
-│   ├── index.css            # Global styles & Tailwind config
-│   └── main.tsx             # Application entry point
-└── README.md                # This file
-```
-
-## 🎨 Design System
-
-### Color Palette
-- **Primary Green**: `#008540` - Healthcare trust and growth
-- **Secondary**: Custom healthcare-focused color scheme
-- **Typography**: Inter font family for professional readability
-
-### Key Design Principles
-- **Accessibility First**: WCAG compliant design
-- **Mobile Responsive**: Optimized for all device sizes
-- **Healthcare UX**: Designed for medical professionals
-- **Performance**: Optimized for fast loading
+### Innovation Focus
+- **Research-Driven**: Partnerships with leading medical institutions
+- **Evidence-Based**: All recommendations backed by peer-reviewed studies
+- **User-Centric**: Designed by and for healthcare professionals
+- **Future-Ready**: Scalable architecture for emerging healthcare needs
 
 ## 📞 Contact & Support
 
@@ -121,15 +70,17 @@ mobileuurka-web/
 - **LinkedIn**: [MobileUurka](https://linkedin.com/company/mobileuurka)
 - **Changelog**: [GitHub Releases](https://github.com/MobileUurka/changelog)
 
-## 🤝 Contributing
+## 🤝 Partnership Opportunities
 
-We welcome contributions to improve MobileUurka! Please feel free to:
+We're always looking to collaborate with healthcare organizations, technology partners, and medical institutions to advance maternal healthcare:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+- **Healthcare Partnerships** - Integration with existing medical systems
+- **Research Collaborations** - Joint studies and clinical trials  
+- **Technology Integration** - API partnerships and data sharing
+- **Investment Opportunities** - Scaling our healthcare impact
+- **Academic Partnerships** - Research and development initiatives
+
+**Interested in partnering with us?** Contact us at [support@mobileuurka.com](mailto:support@mobileuurka.com)
 
 ## 📄 License
 
