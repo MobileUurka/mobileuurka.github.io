@@ -27,7 +27,7 @@ function App() {
     <div id="sabi" className="pt-20"><Sabi/></div>
     <Pricing/>
     <div id="faqs" className="pt-20"><FAQs/></div>
-    <div id="cta" className="pt-20"><CTA/></div>
+    {/* <div id="cta" className="pt-20"><CTA/></div> */}
     <div id="footer" className="pt-20"><Footer/></div>
     </>
   )
