@@ -53,7 +53,7 @@ const Sabi = () => {
                 <img
                     src={text}
                     alt=""
-                    className="absolute top-15 left-1/2 -translate-x-1/2"
+                    className="absolute w-[80%] lg:w-auto top-15 left-1/2 -translate-x-1/2"
                 />
             </div>
         </div>

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const openPricingEmail = () => {
     const subject = encodeURIComponent('Pricing Information Request - MobileUurka Healthcare Solutions');
     const body = encodeURIComponent(`Hello MobileUurka Team,

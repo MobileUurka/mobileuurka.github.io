@@ -48,7 +48,7 @@ const SideBar = ({ navClicked, setNavClicked }: SideBarProps) => {
     return (
 
         <div
-            className={`fixed top-[7.5vh+40px] left-0 h-full w-full bg-[#f5f5f5] shadow-lg z-50 transform transition-transform duration-300 ease-in-out ${navClicked ? 'translate-x-0' : '-translate-x-full'
+            className={`fixed top-[7.5vh+40px] left-0 h-full w-full bg-[#f5f5f5] z-80 shadow-lg z-50 transform transition-transform duration-300 ease-in-out ${navClicked ? 'translate-x-0' : '-translate-x-full'
                 }`}
         >
             <div className="p-6">

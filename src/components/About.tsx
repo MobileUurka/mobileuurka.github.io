@@ -7,7 +7,7 @@ const About = () => {
                 <img
                     src={mac}
                     alt=""
-                    className='absolute top-25 -right-80 h-[80%] w-auto max-w-none'
+                    className='absolute top-10 -right-50 lg:top-25 lg:-right-80 h-[80%] w-auto max-w-none'
                 />
             </div>
             <div className='w-full lg:w-[90%] ml-[5%] flex flex-col justify-center'>
