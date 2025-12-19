@@ -49,7 +49,7 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <div className='relative h-[65vh] my-auto overflow-hidden'>
+            <div className='relative h-[65vh] lg:h-[80vh] my-auto overflow-hidden'>
                 {/* Phone Image */}
                 <div className='absolute top-1/2 -translate-y-1/3 left-4 lg:left-0 z-50'>
                     <img src={phone} alt="MobileUurka mobile app interface" className='h-[50vh] lg:h-[60vh] w-auto' />
